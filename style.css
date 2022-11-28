@@ -1,7 +1,21 @@
-body {background: #cccccc}
+body {background: #f5eeee}
 
-h1 {text-align: center}
+#queijo {width: 100%; height: 300px}
+
+.introdução {background: #cccccc; padding: 20px}
+
+h1 {padding: 20px}
+
+h2 {text-align: center}
 
 p {text-align: center}
 
 strong em {color: #ff0000}
+
+.coagulação-ácida {background: #cccccc; padding: 5px}
+
+.cream { width: 50%; height: 300px; margin-right: 40%; margin-left: 30%}
+
+.coagulação-enzimática {background: #cccccc; padding: 30px}
+
+.minas { width: 50%; height: 300px; margin-right: 40%; margin-left: 30%}
